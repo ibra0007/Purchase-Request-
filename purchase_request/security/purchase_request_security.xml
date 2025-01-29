@@ -1,6 +1,0 @@
-<odoo>
-    <record id="group_purchase_request_manager" model="res.groups">
-        <field name="name">Purchase Request Manager</field>
-        <field name="category_id" ref="base.module_category_purchase"/>
-    </record>
-</odoo>
