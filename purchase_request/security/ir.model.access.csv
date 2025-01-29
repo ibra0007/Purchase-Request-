@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+purchase_request_user,purchase_request_user,model_purchase_request,base.group_user,1,1,1,1
+purchase_request_manager,purchase_request_manager,model_purchase_request,purchase.group_purchase_manager,1,1,1,1
+purchase_request_line_user,purchase_request_line_user,model_purchase_request_line,base.group_user,1,1,1,1
+ppurchase.request.reject.wizard,purchase.request.reject.wizard,model_purchase_request_reject_wizard,base.group_user,1,1,1,1
